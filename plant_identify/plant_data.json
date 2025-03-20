@@ -1,0 +1,293 @@
+{
+    "Aloe vera": {
+        "lifespan": "Perennial (Lives for many years)",
+        "soil": "Well-drained sandy soil",
+        "benefits": "Used in skincare, wound healing, and digestion aid"
+    },
+    "Ocimum tenuiflorum": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, fertile soil with moisture",
+        "benefits": "Boosts immunity, reduces stress, used in herbal medicine"
+    },
+    "Rosa gallica": {
+        "lifespan": "Perennial",
+        "soil": "Loamy soil with good drainage",
+        "benefits": "Used in perfumes, skincare, and medicinal oils"
+    },
+    "Azadirachta indica": {
+        "lifespan": "Up to 200 years",
+        "soil": "Well-drained sandy or loamy soil",
+        "benefits": "Used in Ayurvedic medicine, skincare, and insect repellent"
+    },
+    "Matricaria chamomilla": {
+        "lifespan": "Annual",
+        "soil": "Well-drained sandy loam",
+        "benefits": "Used in herbal teas, relaxation, and digestion aid"
+    },
+    "Mentha piperita": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Used in digestion, headache relief, and essential oils"
+    },
+    "Zingiber officinale": {
+        "lifespan": "Perennial",
+        "soil": "Rich, moist, well-drained soil",
+        "benefits": "Used in digestion, anti-inflammatory treatments, and cold relief"
+    },
+    "Curcuma longa": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, fertile soil",
+        "benefits": "Anti-inflammatory, antioxidant, used in cooking and medicine"
+    },
+    "Withania somnifera": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained sandy or loamy soil",
+        "benefits": "Used in stress relief, cognitive function, and immunity boost"
+    },
+    "Echinacea purpurea": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained sandy or loamy soil",
+        "benefits": "Boosts immunity, used in cold and flu treatments"
+    },
+    "Lavandula angustifolia": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, slightly alkaline soil",
+        "benefits": "Used in aromatherapy, relaxation, and skincare"
+    },
+    "Taraxacum officinale": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained loamy soil",
+        "benefits": "Used for digestion, detox, and liver health"
+    },
+    "Cymbopogon citratus": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained sandy soil",
+        "benefits": "Used in digestion, anxiety relief, and teas"
+    },
+    "Panax ginseng": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, slightly acidic soil",
+        "benefits": "Boosts energy, immunity, and cognitive function"
+    },
+    "Salvia officinalis": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained loamy soil",
+        "benefits": "Used in memory enhancement, digestion, and cooking"
+    },
+    "Ginkgo biloba": {
+        "lifespan": "Can live over 1,000 years",
+        "soil": "Well-drained sandy or loamy soil",
+        "benefits": "Boosts memory, circulation, and cognitive health"
+    },
+    "Allium sativum": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, rich soil",
+        "benefits": "Antibacterial, boosts immunity, heart health"
+    },
+    "Vaccinium myrtillus": {
+        "lifespan": "Perennial",
+        "soil": "Acidic, well-drained soil",
+        "benefits": "Rich in antioxidants, supports eye and heart health"
+    },
+    "Hypericum perforatum": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained sandy or loamy soil",
+        "benefits": "Used for depression, wound healing, and nerve pain"
+    },
+    "Camellia sinensis": {
+        "lifespan": "Perennial",
+        "soil": "Acidic, well-drained soil",
+        "benefits": "Used for tea production, rich in antioxidants"
+    },
+    "Arnica montana": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or rocky soil",
+        "benefits": "Used in pain relief, anti-inflammatory treatments"
+    },
+    "Papaver somniferum": {
+        "lifespan": "Annual",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Source of medicinal opiates and pain relief compounds"
+    },
+    "Glycyrrhiza glabra": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Used in digestion, sore throat relief, and anti-inflammatory treatments"
+    },
+    "Foeniculum vulgare": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, nutrient-rich soil",
+        "benefits": "Supports digestion, lactation, and respiratory health"
+    },
+    "Silybum marianum": {
+        "lifespan": "Biennial",
+        "soil": "Well-drained soil",
+        "benefits": "Supports liver health, detox, and antioxidant properties"
+    },
+    "Valeriana officinalis": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Used for sleep aid, relaxation, and anxiety relief"
+    },
+    "Garcinia cambogia": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Supports weight management, digestive health"
+    },
+    "Moringa oleifera": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Rich in vitamins, supports immunity and energy levels"
+    },
+    "Astragalus membranaceus": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, slightly sandy soil",
+        "benefits": "Supports immunity, energy, and cardiovascular health"
+    },
+    "Schisandra chinensis": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, fertile soil",
+        "benefits": "Supports liver function, endurance, and cognitive health"
+    },
+    "Tribulus terrestris": {
+        "lifespan": "Annual",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Used for boosting vitality, athletic performance, and hormone balance"
+    },
+    "Eucalyptus globulus": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Supports respiratory health, antimicrobial properties"
+    },
+    "Passiflora incarnata": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports relaxation, anxiety relief, and sleep aid"
+    },
+    "Uncaria tomentosa": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, fertile soil",
+        "benefits": "Supports immune function, anti-inflammatory properties"
+    },
+    "Centella asiatica": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, moist soil",
+        "benefits": "Supports cognitive function, wound healing, and circulation"
+    },
+    "Polygonum cuspidatum": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Rich in resveratrol, supports heart health and longevity"
+    },
+    "Acorus calamus": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Supports digestion, cognitive function, and relaxation"
+    },
+    "Hamamelis virginiana": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports skincare, anti-inflammatory properties"
+    },
+    "Berberis vulgaris": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Supports liver function, antimicrobial properties"
+    },
+    "Lycopus europaeus": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Supports thyroid function, cardiovascular health"
+    },
+    "Sambucus nigra": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports immune function, cold and flu relief"
+    },"Acorus calamus": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Supports digestion, cognitive function, and relaxation"
+    },
+    "Hamamelis virginiana": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports skincare, anti-inflammatory properties"
+    },
+    "Berberis vulgaris": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Supports liver function, antimicrobial properties"
+    },
+    "Lycopus europaeus": {
+        "lifespan": "Perennial",
+        "soil": "Moist, well-drained soil",
+        "benefits": "Supports thyroid function, cardiovascular health"
+    },
+    "Sambucus nigra": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports immune function, cold and flu relief"
+    },
+    "Cissus quadrangularis": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy or loamy soil",
+        "benefits": "Supports bone health, joint function, and healing"
+    },
+    "Eleutherococcus senticosus": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, slightly acidic soil",
+        "benefits": "Supports endurance, immunity, and stress resilience"
+    },
+    "Urtica dioica": {
+        "lifespan": "Perennial",
+        "soil": "Moist, nutrient-rich soil",
+        "benefits": "Supports joint health, detox, and respiratory function"
+    },
+    "Plantago major": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Supports wound healing, respiratory health, and digestion"
+    },
+    "Rhodiola rosea": {
+        "lifespan": "Perennial",
+        "soil": "Well-drained, rocky or sandy soil",
+        "benefits": "Supports mental clarity, endurance, and stress relief"
+    },
+    "Cocos nucifera": {
+        "common_name": "Coconut Tree",
+        "lifespan": "Perennial",
+        "soil": "Well-drained, sandy soil",
+        "benefits": "Provides coconut fruit, oil, and water; used in traditional medicine"
+    },
+    "Mangifera indica": {
+        "common_name": "Mango Tree",
+        "lifespan": "Perennial",
+        "soil": "Deep, well-drained, loamy soil",
+        "benefits": "Produces mango fruit; leaves and bark used in traditional remedies"
+    },
+    "Ficus benghalensis": {
+        "common_name": "Banyan Tree",
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Provides shade; used in traditional medicine for various ailments"
+    },
+    "Hibiscus rosa-sinensis": {
+        "common_name": "Hibiscus",
+        "lifespan": "Perennial",
+        "soil": "Well-drained, loamy soil",
+        "benefits": "Ornamental flowers; used in herbal teas and traditional medicine"
+    },
+    "Nelumbo nucifera": {
+        "common_name": "Lotus Plant",
+        "lifespan": "Perennial",
+        "soil": "Nutrient-rich, muddy soil in aquatic environments",
+        "benefits": "Sacred plant; seeds and roots are edible; used in traditional medicine"
+    },
+    "Citrus × aurantium": {
+    "common_name": "Bitter Orange",
+    "lifespan": "Perennial",
+    "soil": "Well-drained, sandy or loamy soil with moderate moisture",
+    "benefits": "Used in traditional medicine for digestion, weight loss, and skin care; essential oil extracted for aromatherapy and perfumery"
+    }
+
+}
